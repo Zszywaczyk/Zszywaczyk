@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:C1622A,100:1a1a1a&height=200&section=header&text=Patryk%20Chowratowicz&fontSize=36&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%26%20Graphic%20Designer&descSize=16&descAlignY=55&descColor=D4774A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141414,50:C1622A,100:141414&height=200&section=header&text=Patryk%20Chowratowicz&fontSize=36&fontColor=F5F5F5&fontAlignY=35&desc=WordPress%20Developer%20%26%20Designer&descSize=16&descAlignY=55&descColor=D4774A" width="100%" />
 
 <p align="center">
   <a href="https://www.behance.net/Zszywacz"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=C1622A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+design+it.+Then+I+build+it.;No+page+builders.+No+shortcuts.+Just+code." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C1622A&center=true&vCenter=true&repeat=true&width=600&height=80&lines=I+design+it.+Then+I+build+it.;No+page+builders.+No+shortcuts.+Just+code." />
 </p>
 
 ---
@@ -25,17 +25,16 @@ Moje projekty przeszły przez branże od **e-commerce** i **edukacji**, przez **
 ```js
 const zszywacz = {
   location:   "Szczecin, Poland",
-  role:       "Web Developer & Graphic Designer",
+  role:       "WordPress Developer & Designer",
   approach:   "Design → Code → Deploy. One person. Full pipeline.",
   philosophy: "Function over aesthetics. But good design does both.",
   
   current: {
     learning: ["Astro", "Headless CMS"],
-    building: "Something cool. Stay tuned.",
+    building: "A portfolio that's not a template.",
   },
   
-  offDuty: ["Marvel", "DC Comics", "Tim Burton", "Laika Studio", 
-            "series", "games", "memes that are too specific"]
+  offDuty: ["Marvel & DC", "Tim Burton", "games", "memes"]
 };
 ```
 
@@ -204,7 +203,7 @@ acusdent.pl · annamed.pl · borys.info.pl · drLesniak.pl · ketamineclinic.pl 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zszywaczyk&theme=dark&hide_border=true&background=0d1117&ring=C1622A&fire=D4774A&currStreakLabel=C1622A&sideLabels=F5F5F5&dates=555555" />
+  <img src="https://streak-stats.demolab.com/?user=Zszywaczyk&theme=dark&hide_border=true&background=0d1117&ring=C1622A&fire=D4774A&currStreakLabel=C1622A&sideLabels=F5F5F5&dates=555555" />
 </p>
 
 <p align="center">
@@ -224,13 +223,14 @@ acusdent.pl · annamed.pl · borys.info.pl · drLesniak.pl · ketamineclinic.pl 
 
 ### 🎬 Off-duty
 
-When I'm not writing code or pushing pixels, you'll probably find me:
+Marvel, DC, Tim Burton, Laika Studio, games, and memes that are way too specific.
 
-- 🦇 Rewatching **The Dark Knight** for the 47th time
-- 🎬 Watching anything by **Laika Studio** or **Tim Burton**
-- 🦸 Debating Marvel vs DC (the answer is both)
-- 🎮 Gaming instead of sleeping
-- 😂 Saving memes that are way too specific
+---
+
+<p align="center">
+  <b>Open for freelance projects & collaborations.</b><br>
+  Reach me on <a href="https://www.linkedin.com/in/patryk-chowratowicz-a92015131/">LinkedIn</a>.
+</p>
 
 ---
 
@@ -238,4 +238,4 @@ When I'm not writing code or pushing pixels, you'll probably find me:
   <img src="https://komarev.com/ghpvc/?username=Zszywaczyk&color=C1622A&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:C1622A,100:1a1a1a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141414,50:C1622A,100:141414&height=120&section=footer" width="100%" />
