@@ -66,7 +66,7 @@ const zszywacz = {
 <td width="50%" valign="top">
 
 **🎨 Design & Branding**
-> Brand identity, social media campaigns, marketing materials. Animations for Facebook/Instagram/TikTok/YouTube ads (After Effects). UI/UX in Figma, Photoshop, Adobe XD.
+> Brand identity, social media campaigns, marketing materials. Animations for Facebook/Instagram/TikTok/YouTube ads (Canva). UI/UX in Figma, Photoshop, Adobe XD.
 
 **🧊 3D Modeling (hobby)**
 > Product visualizations and technical models in Blender. 19 models on SketchFab with 11k+ views. Mostly fun side projects and client product renders.
@@ -179,10 +179,10 @@ Product catalog prepared for print + 3D models of plow blades.
 | **Way2Invest** | 2 landing pages - webinar ticket sales | Elementor, WooCommerce, ClickMeeting, Tpay |
 | **TrueRider** | Christmas landing page + marketing graphics | Elementor, JS, Photoshop |
 | **Lerymond** | Social media campaign - wood-inspired design | Photoshop, Illustrator |
-| **Receptomat & L4** | Ad animations (FB, IG, TikTok, YT) | After Effects, Photoshop |
+| **Receptomat & L4** | Ad animations (FB, IG, TikTok, YT) | Canva, Photoshop |
 | **Agnes Hebamme** | Logo design (4 concept presentations) | Illustrator |
 | **Enduro Lubiechów** | Logo design | Illustrator |
-| **Dusza Marketingowca** | TikTok animation | After Effects |
+| **Dusza Marketingowca** | TikTok animation | Canva |
 | **Zięba Clinic** | Website rewrite from builder to custom WP | WordPress, PHP |
 | **Anmedica** | Website rewrite from builder to custom WP | WordPress, PHP |
 | **Krowarzywa** | Code fixes, view restoration, system migration | WordPress, PHP |
@@ -207,7 +207,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | Category | Technologies |
 |---|---|
 | **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
-| **CMS & Backend** | WordPress, WooCommerce, PHP, ACF (Advanced Custom Fields), Shopify/Liquid, Elementor/Pro Elements |
+| **CMS & Backend** | WordPress, WooCommerce, PHP, ACF (Advanced Custom Fields), Shopify/Liquid, Elementor |
 | **Integrations** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
 | **Design** | Figma, Photoshop, Adobe XD, Illustrator, After Effects |
 | **3D** | Blender |
@@ -252,7 +252,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
   <a href="https://www.linkedin.com/in/patryk-chowratowicz-a92015131/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-**Available for freelance & open to employment (B2B).**
+**Available for freelance projects & open to new opportunities.**
 
 I work best on: WordPress internals & WooCommerce (custom plugins, hooks, integrations), tracking setups (Facebook CAPI, GTM, GA4, Stripe), web apps where backend logic matters - and messy codebases that need fixing or serious optimization.
 
@@ -290,17 +290,17 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 <tr>
 <td width="50%" valign="top">
 
-**� Tracking i integracje**
+**🎯 Tracking i integracje**
 > Custom Facebook Conversion API - działa nawet gdy użytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
 
 **🌐 Web Development**
-> WordPress & WooCommerce - custom themes i customizowane gotowe motywy. Sklepy Shopify. Elementor/Pro Elements gdy pasuje do projektu. PHP, JS, SCSS, ACF. Budowane pod wydajność i utrzymanie.
+> WordPress & WooCommerce - custom themes i customizowane gotowe motywy. Sklepy Shopify. Elementor gdy pasuje do projektu. PHP, JS, SCSS, ACF. Budowane pod wydajność i utrzymanie.
 
 </td>
 <td width="50%" valign="top">
 
 **🎨 Design i branding**
-> Identyfikacja wizualna, kampanie social media, materiały marketingowe. Animacje do reklam FB/IG/TikTok/YT (After Effects). UI/UX w Figmie, Photoshopie, Adobe XD.
+> Identyfikacja wizualna, kampanie social media, materiały marketingowe. Animacje do reklam FB/IG/TikTok/YT (Canva). UI/UX w Figmie, Photoshopie, Adobe XD.
 
 **🧊 Modelowanie 3D (hobby)**
 > Wizualizacje produktowe i modele techniczne w Blenderze. 19 modeli na SketchFab z 11k+ wyświetleń. Głównie side projects i rendery produktów klientów.
@@ -330,9 +330,9 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | Kategoria | Technologie |
 |---|---|
 | **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
-| **CMS i Backend** | WordPress, WooCommerce, PHP, ACF, Shopify/Liquid, Elementor/Pro Elements |
+| **CMS i Backend** | WordPress, WooCommerce, PHP, ACF, Shopify/Liquid, Elementor |
 | **Integracje** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
-| **Design** | Figma, Photoshop, Adobe XD, Illustrator, After Effects |
+| **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
 | **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool |
@@ -352,7 +352,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
   <a href="https://www.linkedin.com/in/patryk-chowratowicz-a92015131/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-**Dostępny na zlecenia freelance i otwarty na współpracę B2B/etat.**
+**Dostępny na zlecenia freelance i otwarty na nowe możliwości współpracy.**
 
 Najlepiej pracuje mi się przy: WordPress internals & WooCommerce (custom pluginy, hooki, integracje), setupach trackingowych (Facebook CAPI, GTM, GA4, Stripe), aplikacjach webowych gdzie liczy się logika backendowa - i przy projektach które ktoś już zaczął i trzeba to ponaprawiać lub porządnie zoptymalizować.
 
