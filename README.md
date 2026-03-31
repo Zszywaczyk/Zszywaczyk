@@ -38,12 +38,10 @@ const zszywacz = {
     brand:    "Nonstetic - coming soon",
   },
   
-  type:      "INTP-T",
-  
   offDuty: [
     "Marvel & DC", "Spider-Verse", "The Boys", "BoJack Horseman",
     "Death Note", "Avatar: TLA", "Tim Burton", "Laika Studio",
-    "gym (110 kg bench)", "calisthenics", "ex-runner (comeback loading)",
+    "gym", "calisthenics", "ex-runner (comeback loading)",
     "memes", "Blender (for fun)"
   ]
 };
