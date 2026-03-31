@@ -20,18 +20,19 @@
 
 Designer who codes. Developer who designs. Or just a guy from Warsaw who builds websites from an empty Figma canvas to a production deploy.
 
+My background is backend-first - PHP, Java, C++, C# from university, years of WordPress internals and custom integrations in practice. Design came naturally alongside it. Frontend I handle, but systems and integrations are where I'm most at home.
+
 By day I write **custom WordPress themes**, customize Shopify stores, and integrate payment systems.
 When I'm not working, I'm probably watching something with great animation or a film with well-composed frames. Grew up on comics and pop culture, and I still care about good visual storytelling more than I probably should.
 
-My projects span **e-commerce**, **education**, **real estate**, **medicine**, **luxury perfumes** and **wooden accessories**.
+My projects span **e-commerce**, **e-learning**, **education**, **real estate**, **medicine**, **luxury perfumes** and **wooden accessories**.
 
 ```js
 const zszywacz = {
   location:   "Warsaw, Poland",
   from:       "Choszczno -> Szczecin -> Warsaw",
-  role:       "Web Developer & Designer",
-  approach:   "Design -> Code -> Deploy. One person. Full pipeline.",
-  philosophy: "Function over aesthetics. But good design does both.",
+  role:       "Web Developer (design -> backend -> deploy). Full pipeline.",
+  approach:   "Function over aesthetics. But good design does both.",
   
   current: {
     building: "Something new. Stay tuned.",
@@ -55,11 +56,11 @@ const zszywacz = {
 <tr>
 <td width="50%" valign="top">
 
+**� Tracking & Integrations**
+> Custom Facebook Conversion API that works even when AdBlock is on. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager & GA4 setups. ClickMeeting, MailerLite, Asari API.
+
 **🌐 Web Development**
 > WordPress & WooCommerce - custom themes and customized ready-made themes. Shopify stores. Elementor/Pro Elements when it fits the project. PHP, JS, SCSS, ACF. Built for speed and maintainability.
-
-**🎯 Tracking & Integrations**
-> Custom Facebook Conversion API that works even when AdBlock is on. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager & GA4 setups. ClickMeeting, MailerLite, Asari API.
 
 </td>
 <td width="50%" valign="top">
@@ -79,6 +80,16 @@ const zszywacz = {
 ### 🏗️ Selected projects
 
 > My commercial work spans **15+ projects** and **13+ websites** I've managed, fixed, and optimized.<br>Here are some highlights:
+
+<details>
+<summary><b>🎓 Eyevotion</b> - E-learning platform for the Italian market</summary>
+<br>
+
+Custom WordPress + WooCommerce e-learning platform built for Anna Maria Zamelska, targeting the Italian market. Custom theme written from scratch with Elementor on the frontend. Full e-commerce setup for digital course sales.
+
+**Tech:** WordPress, WooCommerce, Custom Theme, Elementor, PHP
+**Link:** [eyevotion.com](https://eyevotion.com/)
+</details>
 
 <details>
 <summary><b>🛍️ Milly Sadovski</b> - Luxury perfume e-commerce brand</summary>
@@ -243,7 +254,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 
 **Available for freelance & open to employment (B2B).**
 
-I work best on: custom WordPress themes & WooCommerce stores, web apps built with Astro or React, tracking setups (Facebook CAPI, GTM, GA4, Stripe) - and messy codebases that need fixing or serious optimization.
+I work best on: WordPress internals & WooCommerce (custom plugins, hooks, integrations), tracking setups (Facebook CAPI, GTM, GA4, Stripe), web apps where backend logic matters - and messy codebases that need fixing or serious optimization.
 
 If you have a real project and need someone who handles the full pipeline from design to deploy - let's talk.
 
@@ -265,9 +276,11 @@ Something new is coming - **Nonstetic** - stay tuned.
 
 Designer, który koduje. Programista, który projektuje. Albo po prostu koleś z Warszawy, który buduje strony internetowe od pustego Figma canvas po produkcyjny deploy.
 
+Moje tło to backend-first - PHP, Java, C++, C# ze studiów, lata WordPress internals i custom integracji w praktyce. Design przyszedł naturalnie obok tego. Frontend ogarniam, ale systemy i integracje to moje naturalne środowisko.
+
 Urodzony w Choszcznie, studiowałem w Szczecinie, teraz działam z Warszawy. Za dnia piszę **custom motywy WordPress**, customizuję sklepy Shopify i integruję systemy płatności. Po pracy oglądam coś z dobrą animacją albo film ze świetnymi kadrami. Wyrosłem na komiksach i popkulturze, i dalej zależy mi na dobrym visual storytellingu bardziej niż powinienem.
 
-Moje projekty przeszły przez branże od **e-commerce** i **edukacji**, przez **nieruchomości** i **medycynę**, po **luksusowe perfumy** i **drewniane akcesoria**.
+Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez **edukację**, **nieruchomości** i **medycynę**, po **luksusowe perfumy** i **drewniane akcesoria**.
 
 ---
 
@@ -277,11 +290,11 @@ Moje projekty przeszły przez branże od **e-commerce** i **edukacji**, przez **
 <tr>
 <td width="50%" valign="top">
 
+**� Tracking i integracje**
+> Custom Facebook Conversion API - działa nawet gdy użytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
+
 **🌐 Web Development**
 > WordPress & WooCommerce - custom themes i customizowane gotowe motywy. Sklepy Shopify. Elementor/Pro Elements gdy pasuje do projektu. PHP, JS, SCSS, ACF. Budowane pod wydajność i utrzymanie.
-
-**🎯 Tracking i integracje**
-> Custom Facebook Conversion API - działa nawet gdy użytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
 
 </td>
 <td width="50%" valign="top">
@@ -302,6 +315,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **edukacji**, przez **
 
 | Projekt | Opis | Tech |
 |---|---|---|
+| **[Eyevotion](https://eyevotion.com/)** | Platforma e-learningowa na rynek włoski, custom theme + WooCommerce | WordPress, WooCommerce, Elementor, PHP |
 | **[Milly Sadovski](https://millysadovski.com/)** | Luksusowy sklep perfumeryjny, Shopify, wysyłka 50+ krajów | Shopify, Liquid, Klarna, Apple Pay |
 | **[FizjoSystem Szkolenia](https://www.fizjosystem-szkolenia.pl/)** | Platforma szkoleniowa dla fizjoterapeutów, rejestracja, płatności | WordPress, Custom Theme, ACF, PHP |
 | **Misioo** | Redesign sklepu + integracje płatności na rynek niemiecki | WooCommerce, Stripe, Klarna, PayPal, UPS |
@@ -340,7 +354,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **edukacji**, przez **
 
 **Dostępny na zlecenia freelance i otwarty na współpracę B2B/etat.**
 
-Najlepiej pracuje mi się przy: custom motywach WordPress i sklepach WooCommerce, aplikacjach webowych w Astro lub React, setupach trackingowych (Facebook CAPI, GTM, GA4, Stripe) - i przy projektach które ktoś już zaczął i trzeba to ponaprawiać lub porządnie zoptymalizować.
+Najlepiej pracuje mi się przy: WordPress internals & WooCommerce (custom pluginy, hooki, integracje), setupach trackingowych (Facebook CAPI, GTM, GA4, Stripe), aplikacjach webowych gdzie liczy się logika backendowa - i przy projektach które ktoś już zaczął i trzeba to ponaprawiać lub porządnie zoptymalizować.
 
 Jeśli masz konkretny projekt i szukasz kogoś kto ogarnie cały pipeline od designu po deploy - napisz.
 
