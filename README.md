@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141414,50:C1622A,100:141414&height=200&section=header&text=Patryk%20Chowratowicz&fontSize=36&fontColor=F5F5F5&fontAlignY=35&desc=Web%20Developer%20%26%20Designer&descSize=16&descAlignY=55&descColor=D4774A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:C1622A,100:141414&height=200&section=header&text=Patryk%20Chowratowicz&fontSize=36&fontColor=F5F5F5&fontAlignY=35&desc=Web%20Developer%20%26%20Designer&descSize=16&descAlignY=55&descColor=D4774A" width="100%" />
 
 <p align="center">
   <a href="https://www.behance.net/Zszywacz"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C1622A&center=true&vCenter=true&repeat=true&width=600&height=80&lines=I+design+it.+Then+I+build+it.;WordPress+%7C+Shopify+%7C+Custom+Code;From+Figma+canvas+to+production+deploy." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C1622A&center=true&vCenter=true&repeat=true&width=600&height=80&lines=I+design+it.+Then+I+build+it.;WordPress+%7C+WooCommerce+%7C+Custom+Code;From+Figma+canvas+to+production+deploy." />
 </p>
 
 > 🇵🇱 **[Wersja polska](#-wersja-polska)** jest na dole strony.
@@ -20,8 +20,8 @@
 
 Designer who codes. Developer who designs. Or just a guy from Warsaw who builds websites from an empty Figma canvas to a production deploy.
 
-By day I write **custom WordPress themes**, heavily customize Shopify stores, and integrate payment systems.
-By night I watch Marvel, browse memes, and argue about which Spider-Man animated series is the best one (it's the 1994 one, obviously).
+By day I write **custom WordPress themes**, customize Shopify stores, and integrate payment systems.
+When I'm not working, I'm probably watching something with great animation or a film with well-composed frames. Grew up on comics and pop culture, and I still care about good visual storytelling more than I probably should.
 
 My projects span **e-commerce**, **education**, **real estate**, **medicine**, **luxury perfumes** and **wooden accessories**.
 
@@ -38,10 +38,13 @@ const zszywacz = {
     brand:    "Nonstetic - coming soon",
   },
   
+  type:      "INTP-T",
+  
   offDuty: [
     "Marvel & DC", "Spider-Verse", "The Boys", "BoJack Horseman",
     "Death Note", "Avatar: TLA", "Tim Burton", "Laika Studio",
-    "running", "memes", "Blender (for fun)"
+    "gym (110 kg bench)", "calisthenics", "ex-runner (comeback loading)",
+    "memes", "Blender (for fun)"
   ]
 };
 ```
@@ -55,7 +58,7 @@ const zszywacz = {
 <td width="50%" valign="top">
 
 **🌐 Web Development**
-> WordPress & WooCommerce - custom themes and heavily customized ready-made themes. Shopify stores. Elementor/Pro Elements when it fits the project. PHP, JS, SCSS, ACF. Built for speed and maintainability.
+> WordPress & WooCommerce - custom themes and customized ready-made themes. Shopify stores. Elementor/Pro Elements when it fits the project. PHP, JS, SCSS, ACF. Built for speed and maintainability.
 
 **🎯 Tracking & Integrations**
 > Custom Facebook Conversion API that works even when AdBlock is on. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager & GA4 setups. ClickMeeting, MailerLite, Asari API.
@@ -229,7 +232,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 
 ### 🎬 Off-duty
 
-Runner. Night owl. Animation and anime fan - from Spider-Verse and Avatar: TLA to Death Note and BoJack Horseman. Big into superhero deconstruction (The Boys, Invincible). Emotional about The Notebook and Up (Pixar). Grew up on The Prestige and Pirates of the Caribbean. Still rewatches Rick and Morty. Plays games, collects memes that are way too specific, and sometimes opens Blender just to see what happens.
+`INTP-T`. Night owl. Gym regular (110 kg bench, calisthenics), ex-runner working on a comeback. Animation and anime fan - from Spider-Verse and Avatar: TLA to Death Note and BoJack Horseman. Big into superhero deconstruction (The Boys, Invincible). Emotional about The Notebook and Up (Pixar). Grew up on The Prestige, Pirates of the Caribbean, and way too many comics. Still rewatches Rick and Morty. Plays games, collects memes that are way too specific, and sometimes opens Blender just to see what happens.
 
 ---
 
@@ -240,10 +243,13 @@ Runner. Night owl. Animation and anime fan - from Spider-Verse and Avatar: TLA t
   <a href="https://www.linkedin.com/in/patryk-chowratowicz-a92015131/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <b>Open for freelance projects & collaborations.</b><br>
-  Something new is coming - <b>Nonstetic</b> - stay tuned.
-</p>
+**Available for freelance & open to employment (B2B).**
+
+I work best on: custom WordPress themes & WooCommerce stores, web apps built with Astro or React, tracking setups (Facebook CAPI, GTM, GA4, Stripe) - and messy codebases that need fixing or serious optimization.
+
+If you have a real project and need someone who handles the full pipeline from design to deploy - let's talk.
+
+Something new is coming - **Nonstetic** - stay tuned.
 
 ---
 
@@ -259,34 +265,34 @@ Runner. Night owl. Animation and anime fan - from Spider-Verse and Avatar: TLA t
 
 ### `> kim jestem`
 
-Designer, ktory koduje. Programista, ktory projektuje. Albo po prostu koles z Warszawy, ktory buduje strony internetowe od pustego Figma canvas po produkcyjny deploy.
+Designer, który koduje. Programista, który projektuje. Albo po prostu koleś z Warszawy, który buduje strony internetowe od pustego Figma canvas po produkcyjny deploy.
 
-Urodzony w Choszcznie, studiowalem w Szczecinie, teraz dzialaje z Warszawy. Za dnia pisze **custom motywy WordPress**, mocno przerabiam sklepy Shopify i integruje systemy platnosci. Wieczorem ogladam Marvela, przegladam memy i kloce sie o to, ktory animowany Spider-Man jest najlepszy (ten z 1994, oczywiscie).
+Urodzony w Choszcznie, studiowałem w Szczecinie, teraz działam z Warszawy. Za dnia piszę **custom motywy WordPress**, customizuję sklepy Shopify i integruję systemy płatności. Po pracy oglądam coś z dobrą animacją albo film ze świetnymi kadrami. Wyrosłem na komiksach i popkulturze, i dalej zależy mi na dobrym visual storytellingu bardziej niż powinienem.
 
-Moje projekty przeszly przez branze od **e-commerce** i **edukacji**, przez **nieruchomosci** i **medycyne**, po **luksusowe perfumy** i **drewniane akcesoria**.
+Moje projekty przeszły przez branże od **e-commerce** i **edukacji**, przez **nieruchomości** i **medycynę**, po **luksusowe perfumy** i **drewniane akcesoria**.
 
 ---
 
-### ⚡ Co dokladnie robie
+### ⚡ Co dokładnie robię
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🌐 Web Development**
-> WordPress & WooCommerce - custom themes i mocno customizowane gotowe motywy. Sklepy Shopify. Elementor/Pro Elements gdy pasuje do projektu. PHP, JS, SCSS, ACF. Budowane pod wydajnosc i utrzymanie.
+> WordPress & WooCommerce - custom themes i customizowane gotowe motywy. Sklepy Shopify. Elementor/Pro Elements gdy pasuje do projektu. PHP, JS, SCSS, ACF. Budowane pod wydajność i utrzymanie.
 
 **🎯 Tracking i integracje**
-> Custom Facebook Conversion API - dziala nawet gdy uzytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
+> Custom Facebook Conversion API - działa nawet gdy użytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
 
 </td>
 <td width="50%" valign="top">
 
 **🎨 Design i branding**
-> Identyfikacja wizualna, kampanie social media, materialy marketingowe. Animacje do reklam FB/IG/TikTok/YT (After Effects). UI/UX w Figmie, Photoshopie, Adobe XD.
+> Identyfikacja wizualna, kampanie social media, materiały marketingowe. Animacje do reklam FB/IG/TikTok/YT (After Effects). UI/UX w Figmie, Photoshopie, Adobe XD.
 
 **🧊 Modelowanie 3D (hobby)**
-> Wizualizacje produktowe i modele techniczne w Blenderze. 19 modeli na SketchFab z 11k+ wyswietlen. Glownie side projects i rendery produktow klientow.
+> Wizualizacje produktowe i modele techniczne w Blenderze. 19 modeli na SketchFab z 11k+ wyświetleń. Głównie side projects i rendery produktów klientów.
 
 </td>
 </tr>
@@ -296,11 +302,18 @@ Moje projekty przeszly przez branze od **e-commerce** i **edukacji**, przez **ni
 
 ### 🏗️ Wybrane projekty
 
-> Moje komercyjne realizacje obejmuja **15+ projektow** i **13+ stron**, ktore zarzadzalem, naprawialem i optymalizowalem.<br>Szczegoly w angielskiej wersji powyzej.
+| Projekt | Opis | Tech |
+|---|---|---|
+| **[Milly Sadovski](https://millysadovski.com/)** | Luksusowy sklep perfumeryjny, Shopify, wysyłka 50+ krajów | Shopify, Liquid, Klarna, Apple Pay |
+| **[FizjoSystem Szkolenia](https://www.fizjosystem-szkolenia.pl/)** | Platforma szkoleniowa dla fizjoterapeutów, rejestracja, płatności | WordPress, Custom Theme, ACF, PHP |
+| **Misioo** | Redesign sklepu + integracje płatności na rynek niemiecki | WooCommerce, Stripe, Klarna, PayPal, UPS |
+| **[Simpliteca](https://simpliteca.com/)** | Strona + custom Facebook Conversion API (obejście AdBlocka) | WordPress, ACF, Meta CAPI, GTM |
+
+> ...i więcej. Pełna lista z opisami w [wersji angielskiej](#-selected-projects) powyżej.
 
 ---
 
-### 🧰 Technologie i narzedzia
+### 🧰 Technologie i narzędzia
 
 | Kategoria | Technologie |
 |---|---|
@@ -310,13 +323,13 @@ Moje projekty przeszly przez branze od **e-commerce** i **edukacji**, przez **ni
 | **Design** | Figma, Photoshop, Adobe XD, Illustrator, After Effects |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
-| **Narzedzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool |
+| **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool |
 
 ---
 
 ### 🎬 Po godzinach
 
-Biegacz. Nocny marek. Fan animacji i anime - od Spider-Verse i Avatara: Legenda Aanga po Death Note i BoJacka Horsemana. Dekonstrukcja superbohaterow to moj gatunek (The Boys, Invincible). Wzruszam sie na Pamiętniku i Odlocie (Pixar). Wyroslem na Prestizu i Piratach z Karaibow. Wciaz ogladam Ricka i Mortiego. Gram w gry, zbieram memy ktore sa zbyt niszowe, i czasem otwieram Blendera zeby zobaczyc co sie stanie.
+`INTP-T`. Nocny marek. Siłownia (110 kg na ławce, kalistenika), ex-biegacz pracujący nad comebackiem. Fan animacji i anime - od Spider-Verse i Avatara: Legenda Aanga po Death Note i BoJacka Horsemana. Dekonstrukcja superbohaterów to mój gatunek (The Boys, Invincible). Wzruszam się na Pamiętniku i Odlocie (Pixar). Wyrosłem na Prestiżu, Piratach z Karaibów i za dużej ilości komiksów. Wciąż oglądam Ricka i Mortiego. Gram w gry, zbieram memy które są zbyt niszowe, i czasem otwieram Blendera żeby zobaczyć co się stanie.
 
 ---
 
@@ -327,9 +340,12 @@ Biegacz. Nocny marek. Fan animacji i anime - od Spider-Verse i Avatara: Legenda 
   <a href="https://www.linkedin.com/in/patryk-chowratowicz-a92015131/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <b>Otwarty na projekty freelance i wspolprace.</b><br>
-  Cos nowego nadchodzi - <b>Nonstetic</b> - stay tuned.
-</p>
+**Dostępny na zlecenia freelance i otwarty na współpracę B2B/etat.**
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141414,50:C1622A,100:141414&height=120&section=footer" width="100%" />
+Najlepiej pracuje mi się przy: custom motywach WordPress i sklepach WooCommerce, aplikacjach webowych w Astro lub React, setupach trackingowych (Facebook CAPI, GTM, GA4, Stripe) - i przy projektach które ktoś już zaczął i trzeba to ponaprawiać lub porządnie zoptymalizować.
+
+Jeśli masz konkretny projekt i szukasz kogoś kto ogarnie cały pipeline od designu po deploy - napisz.
+
+Coś nowego nadchodzi - **Nonstetic** - stay tuned.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:C1622A,100:141414&height=120&section=footer" width="100%" />
