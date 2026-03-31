@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:C1622A,100:141414&height=200&section=header&text=Patryk%20Chowratowicz&fontSize=36&fontColor=F5F5F5&fontAlignY=35&desc=Web%20Developer%20%26%20Designer&descSize=16&descAlignY=55&descColor=D4774A" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:C1622A,100:141414&height=200&section=header&text=Patryk%20Chowratowicz&fontSize=36&fontColor=F5F5F5&fontAlignY=35&desc=Web%20Developer%20and%20Designer&descSize=16&descAlignY=55&descColor=D4774A" width="100%" />
 
 <p align="center">
   <a href="https://www.behance.net/Zszywacz"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
