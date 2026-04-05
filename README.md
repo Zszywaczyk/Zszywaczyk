@@ -225,8 +225,8 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5" />
+  <img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A" />
+  <img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5" />
 </p>
 
 <p align="center">
