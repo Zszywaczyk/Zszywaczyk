@@ -77,6 +77,8 @@ const zszywacz = {
 
 ---
 
+<a id="selected-projects"></a>
+
 ### 🏗️ Selected projects
 
 > My commercial work spans **15+ projects** and **13+ websites** I've managed, fixed, and optimized.<br>Here are some highlights:
@@ -127,7 +129,6 @@ Full redesign and deployment of an online store. Custom WordPress/WooCommerce th
 Website built from an Adobe XD design. The key feature: a **custom Facebook Conversion API** solution - server-side conversion tracking that works even when users block tracking scripts (AdBlock). Plus MailerLite integration.
 
 **Tech:** WordPress, ACF, PHP, JS, SCSS, Meta Conversion API, GTM
-**Link:** [simpliteca.com](https://simpliteca.com/)
 </details>
 
 <details>
@@ -197,19 +198,19 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 ### 🧰 Tech & Tools
 
 <p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-  <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
-  <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass" /></a>
-  <a href="https://wordpress.org"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
-  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
-  <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" /></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
-  <a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="Illustrator" /></a>
-  <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="Illustrator" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" /></a>
 </p>
 
 <details>
@@ -233,16 +234,18 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11211100?theme=dark&website=true&location=true" />
+  <a href="https://stackoverflow.com/users/11211100/patryk-chowratowicz-zszywacz">
+    <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11211100?theme=dark&website=true&location=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A" />
-  <img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5" />
+  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A" /></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zszywaczyk&theme=react-dark&hide_border=true&bg_color=0d1117&color=F5F5F5&line=C1622A&point=D4774A&area=true&area_color=C1622A" width="98%" />
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Zszywaczyk&theme=react-dark&hide_border=true&bg_color=0d1117&color=F5F5F5&line=C1622A&point=D4774A&area=true&area_color=C1622A" width="98%" /></a>
 </p>
 
 | 🏗️ 15+ commercial projects | 🌍 103k people reached on StackOverflow |
@@ -332,7 +335,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | **Misioo** | Redesign sklepu + integracje płatności na rynek niemiecki | WooCommerce, Stripe, Klarna, PayPal, UPS |
 | **[Simpliteca](https://simpliteca.com/)** | Strona + custom Facebook Conversion API (obejście AdBlocka) | WordPress, ACF, Meta CAPI, GTM |
 
-> ...i więcej. Pełna lista z opisami w [wersji angielskiej](#-selected-projects) powyżej.
+> ...i więcej. Pełna lista z opisami w [wersji angielskiej](#selected-projects) powyżej.
 
 ---
 
