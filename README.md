@@ -197,7 +197,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 ### 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,sass,wordpress,bootstrap,webpack,git,figma,ps,ai,ae,blender&theme=dark&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,sass,wordpress,bootstrap,webpack,git,figma,ps,ai,blender&theme=dark&perline=13" />
 </p>
 
 <details>
@@ -209,7 +209,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
 | **CMS & Backend** | WordPress, WooCommerce, PHP, ACF (Advanced Custom Fields), Shopify/Liquid, Elementor |
 | **Integrations** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
-| **Design** | Figma, Photoshop, Adobe XD, Illustrator, After Effects |
+| **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
 | **Tools** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool |
