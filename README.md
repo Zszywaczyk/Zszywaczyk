@@ -197,7 +197,19 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 ### 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,sass,wordpress,bootstrap,webpack,git,figma,ps,ai,blender&theme=dark&perline=13" />
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+  <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="Sass" /></a>
+  <a href="https://wordpress.org"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
+  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
+  <a href="https://webpack.js.org"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="Illustrator" /></a>
+  <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender&theme=dark" alt="Blender" /></a>
 </p>
 
 <details>
@@ -212,7 +224,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
-| **Tools** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool |
+| **Tools** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer |
 
 </details>
 
@@ -235,8 +247,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 
 | 🏗️ 15+ commercial projects | 🌍 103k people reached on StackOverflow |
 |---|---|
-| 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained |
-
+| 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained || 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | 🐙 323 GitHub contributions/year |
 ---
 
 ### 🎬 Off-duty
@@ -335,7 +346,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
-| **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool |
+| **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer |
 
 ---
 
