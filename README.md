@@ -221,7 +221,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zszywaczyk&theme=dark&hide_border=true&background=0d1117&ring=C1622A&fire=D4774A&currStreakLabel=C1622A&sideLabels=F5F5F5&dates=555555" />
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11211100?theme=dark&website=true&location=true" />
 </p>
 
 <p align="center">
