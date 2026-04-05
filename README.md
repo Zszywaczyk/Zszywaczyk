@@ -250,7 +250,8 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 
 | 🏗️ 15+ commercial projects | 🌍 103k people reached on StackOverflow |
 |---|---|
-| 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained || 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | 🐙 323 GitHub contributions/year |
+| 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained |
+| 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | 🐙 323 GitHub contributions/year |
 ---
 
 ### 🎬 Off-duty
@@ -333,7 +334,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | **[Milly Sadovski](https://millysadovski.com/)** | Luksusowy sklep perfumeryjny, Shopify, wysyłka 50+ krajów | Shopify, Liquid, Klarna, Apple Pay |
 | **[FizjoSystem Szkolenia](https://www.fizjosystem-szkolenia.pl/)** | Platforma szkoleniowa dla fizjoterapeutów, rejestracja, płatności | WordPress, Custom Theme, ACF, PHP |
 | **Misioo** | Redesign sklepu + integracje płatności na rynek niemiecki | WooCommerce, Stripe, Klarna, PayPal, UPS |
-| **[Simpliteca](https://simpliteca.com/)** | Strona + custom Facebook Conversion API (obejście AdBlocka) | WordPress, ACF, Meta CAPI, GTM |
+| **Simpliteca** | Strona + custom Facebook Conversion API (obejście AdBlocka) | WordPress, ACF, Meta CAPI, GTM |
 
 > ...i więcej. Pełna lista z opisami w [wersji angielskiej](#selected-projects) powyżej.
 
