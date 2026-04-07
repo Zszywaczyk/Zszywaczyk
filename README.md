@@ -56,7 +56,7 @@ const zszywacz = {
 <tr>
 <td width="50%" valign="top">
 
-**� Tracking & Integrations**
+**🎯 Tracking & Integrations**
 > Custom Facebook Conversion API that works even when AdBlock is on. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager & GA4 setups. ClickMeeting, MailerLite, Asari API.
 
 **🌐 Web Development**
@@ -66,7 +66,7 @@ const zszywacz = {
 <td width="50%" valign="top">
 
 **🎨 Design & Branding**
-> Brand identity, social media campaigns, marketing materials. Animations for Facebook/Instagram/TikTok/YouTube ads (Canva). UI/UX in Figma, Photoshop, Adobe XD.
+> Brand identity, social media campaigns, marketing materials. Advertising animations for Facebook/Instagram/TikTok/YouTube ads. UI/UX in Figma, Photoshop, Adobe XD.
 
 **🧊 3D Modeling (hobby)**
 > Product visualizations and technical models in Blender. 19 models on SketchFab with 11k+ views. Mostly fun side projects and client product renders.
@@ -99,7 +99,7 @@ Custom WordPress + WooCommerce e-learning platform built for Anna Maria Zamelska
 
 Full Shopify store for a luxury perfume brand with international shipping to 50+ countries. Multi-language support, product bundles, Judge.me reviews integration. Ready-made Shopify theme customized beyond recognition to match a premium aesthetic.
 
-**Tech:** Shopify, Liquid, Customized Theme, Klarna, Apple Pay, Google Pay, BLIK
+**Tech:** Shopify, Customized Theme, Klarna, Apple Pay, Google Pay, BLIK
 **Link:** [millysadovski.com](https://millysadovski.com/)
 </details>
 
@@ -114,12 +114,12 @@ In-person training platform for physiotherapists and osteopaths. Registration sy
 </details>
 
 <details>
-<summary><b>🛒 Misioo</b> - Online store redesign + payment integrations</summary>
+<summary><b>🛒 Misioo</b> - E-commerce store redesign</summary>
 <br>
 
-Full redesign and deployment of an online store. Custom WordPress/WooCommerce theme. Payment gateway integrations (Stripe, Klarna, PayPal) for the German market. UPS integration. Hosting migration, performance optimization, CSV product imports.
+Store redesign for the German market. Custom WordPress/WooCommerce theme, payment integrations, hosting migration.
 
-**Tech:** WordPress, WooCommerce, PHP, SCSS, Webpack, Babel, Bootstrap, Swiper, Git
+**Tech:** WordPress, WooCommerce, PHP, SCSS, Webpack, Bootstrap, Git
 </details>
 
 <details>
@@ -180,10 +180,10 @@ Product catalog prepared for print + 3D models of plow blades.
 | **Way2Invest** | 2 landing pages - webinar ticket sales | Elementor, WooCommerce, ClickMeeting, Tpay |
 | **TrueRider** | Christmas landing page + marketing graphics | Elementor, JS, Photoshop |
 | **Lerymond** | Social media campaign - wood-inspired design | Photoshop, Illustrator |
-| **Receptomat & L4** | Ad animations (FB, IG, TikTok, YT) | Canva, Photoshop |
+| **Receptomat & L4** | Advertising animations (FB, IG, TikTok, YT) | Photoshop |
 | **Agnes Hebamme** | Logo design (4 concept presentations) | Illustrator |
 | **Enduro Lubiechów** | Logo design | Illustrator |
-| **Dusza Marketingowca** | TikTok animation | Canva |
+| **Dusza Marketingowca** | TikTok animation | Photoshop |
 | **Zięba Clinic** | Website rewrite from builder to custom WP | WordPress, PHP |
 | **Anmedica** | Website rewrite from builder to custom WP | WordPress, PHP |
 | **Krowarzywa** | Code fixes, view restoration, system migration | WordPress, PHP |
@@ -206,6 +206,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
   <a href="#"><img src="https://skillicons.dev/icons?i=wordpress&theme=dark" alt="WordPress" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=webpack&theme=dark" alt="Webpack" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop" /></a>
@@ -220,12 +221,12 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | Category | Technologies |
 |---|---|
 | **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
-| **CMS & Backend** | WordPress, WooCommerce, PHP, ACF (Advanced Custom Fields), Shopify/Liquid, Elementor |
+| **CMS & Backend** | WordPress, WooCommerce, PHP, ACF (Advanced Custom Fields), Shopify, Elementor |
 | **Integrations** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
-| **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
+| **Design** | Figma, Photoshop, Adobe XD, Illustrator |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
-| **Tools** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer |
+| **Tools** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer, Electron |
 
 </details>
 
@@ -241,7 +242,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 
 <p align="center">
   <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A" /></a>
-  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5" /></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5&hide=c%23,tsql&langs_count=8" /></a>
 </p>
 
 <p align="center">
@@ -285,7 +286,8 @@ Something new is coming - **Nonstetic** - stay tuned.
 
 <br>
 
-## 🇵🇱 Wersja polska
+<details>
+<summary><h2>🇵🇱 Wersja polska</h2></summary>
 
 ### `> kim jestem`
 
@@ -315,7 +317,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 <td width="50%" valign="top">
 
 **🎨 Design i branding**
-> Identyfikacja wizualna, kampanie social media, materiały marketingowe. Animacje do reklam FB/IG/TikTok/YT (Canva). UI/UX w Figmie, Photoshopie, Adobe XD.
+> Identyfikacja wizualna, kampanie social media, materiały marketingowe. Animacje reklamowe do reklam FB/IG/TikTok/YT. UI/UX w Figmie, Photoshopie, Adobe XD.
 
 **🧊 Modelowanie 3D (hobby)**
 > Wizualizacje produktowe i modele techniczne w Blenderze. 19 modeli na SketchFab z 11k+ wyświetleń. Głównie side projects i rendery produktów klientów.
@@ -331,9 +333,9 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | Projekt | Opis | Tech |
 |---|---|---|
 | **[Eyevotion](https://eyevotion.com/)** | Platforma e-learningowa na rynek włoski, custom theme + WooCommerce | WordPress, WooCommerce, Elementor, PHP |
-| **[Milly Sadovski](https://millysadovski.com/)** | Luksusowy sklep perfumeryjny, Shopify, wysyłka 50+ krajów | Shopify, Liquid, Klarna, Apple Pay |
+| **[Milly Sadovski](https://millysadovski.com/)** | Luksusowy sklep perfumeryjny, Shopify, wysyłka 50+ krajów | Shopify, Klarna, Apple Pay |
 | **[FizjoSystem Szkolenia](https://www.fizjosystem-szkolenia.pl/)** | Platforma szkoleniowa dla fizjoterapeutów, rejestracja, płatności | WordPress, Custom Theme, ACF, PHP |
-| **Misioo** | Redesign sklepu + integracje płatności na rynek niemiecki | WooCommerce, Stripe, Klarna, PayPal, UPS |
+| **Misioo** | Redesign sklepu na rynek niemiecki | WooCommerce, PHP, SCSS |
 | **Simpliteca** | Strona + custom Facebook Conversion API (obejście AdBlocka) | WordPress, ACF, Meta CAPI, GTM |
 
 > ...i więcej. Pełna lista z opisami w [wersji angielskiej](#selected-projects) powyżej.
@@ -345,12 +347,12 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | Kategoria | Technologie |
 |---|---|
 | **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
-| **CMS i Backend** | WordPress, WooCommerce, PHP, ACF, Shopify/Liquid, Elementor |
+| **CMS i Backend** | WordPress, WooCommerce, PHP, ACF, Shopify, Elementor |
 | **Integracje** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
-| **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
+| **Design** | Figma, Photoshop, Adobe XD, Illustrator |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
-| **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer |
+| **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer, Electron |
 
 ---
 
@@ -374,5 +376,7 @@ Najlepiej pracuje mi się przy: WordPress internals & WooCommerce (custom plugin
 Jeśli masz konkretny projekt i szukasz kogoś kto ogarnie cały pipeline od designu po deploy - napisz.
 
 Coś nowego nadchodzi - **Nonstetic** - stay tuned.
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:C1622A,100:141414&height=120&section=footer" width="100%" />
