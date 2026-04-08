@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C1622A&center=true&vCenter=true&repeat=true&width=600&height=80&lines=I+design+it.+Then+I+build+it.;WordPress+%7C+WooCommerce+%7C+Custom+Code;From+Figma+canvas+to+production+deploy." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C1622A&center=true&vCenter=true&repeat=true&width=600&height=80&lines=Backend-first.+Full+pipeline.;WordPress+%7C+WooCommerce+%7C+Custom+Code;From+empty+canvas+to+production+deploy." />
 </p>
 
 > 🇵🇱 **[Wersja polska](#-wersja-polska)** jest na dole strony.
@@ -18,14 +18,12 @@
 
 ### `> whoami`
 
-Designer who codes. Developer who designs. Or just a guy from Warsaw who builds websites from an empty Figma canvas to a production deploy.
+Web developer from Warsaw. Backend-first — PHP, WordPress internals, custom integrations, server-side tracking. I build e-commerce stores, payment systems, and conversion tracking that works even when AdBlock is on.
 
-My background is backend-first - PHP, Java, C++, C# from university, years of WordPress internals and custom integrations in practice. Design came naturally alongside it. Frontend I handle, but systems and integrations are where I'm most at home.
+By day I write **custom WordPress themes**, build WooCommerce stores, and integrate payment + tracking systems (Stripe, Klarna, Facebook CAPI).
+Design came alongside it — Figma, Photoshop, Blender. My projects go from an empty canvas to production deploy.
 
-By day I write **custom WordPress themes**, customize Shopify stores, and integrate payment systems.
-When I'm not working, I'm probably watching something with great animation or a film with well-composed frames. Grew up on comics and pop culture, and I still care about good visual storytelling more than I probably should.
-
-My projects span **e-commerce**, **e-learning**, **education**, **real estate**, **medicine**, **luxury perfumes** and **wooden accessories**.
+Projects span **e-commerce**, **e-learning**, **education**, **real estate**, **medicine**, **luxury perfumes** and **wooden accessories**.
 
 ```js
 const zszywacz = {
@@ -40,10 +38,8 @@ const zszywacz = {
   },
   
   offDuty: [
-    "Marvel & DC", "Spider-Verse", "The Boys", "BoJack Horseman",
-    "Death Note", "Avatar: TLA", "Tim Burton", "Laika Studio",
-    "gym", "calisthenics", "ex-runner (comeback loading)",
-    "memes", "Blender (for fun)"
+    "Spider-Verse", "The Boys", "BoJack Horseman", "Death Note",
+    "gym & calisthenics", "memes", "Blender (for fun)"
   ]
 };
 ```
@@ -60,7 +56,7 @@ const zszywacz = {
 > Custom Facebook Conversion API that works even when AdBlock is on. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager & GA4 setups. ClickMeeting, MailerLite, Asari API.
 
 **🌐 Web Development**
-> WordPress & WooCommerce - custom themes and customized ready-made themes. Shopify stores. Elementor/Pro Elements when it fits the project. PHP, JS, SCSS, ACF. Built for speed and maintainability.
+> WordPress & WooCommerce — custom themes, child themes, customized ThemeForest themes. Shopify stores. PHP, JS, SCSS, ACF. Custom build pipeline with Webpack — no bloat, no unused CSS, no page builder overhead.
 
 </td>
 <td width="50%" valign="top">
@@ -114,10 +110,10 @@ In-person training platform for physiotherapists and osteopaths. Registration sy
 </details>
 
 <details>
-<summary><b>🛒 Misioo</b> - E-commerce store redesign</summary>
+<summary><b>🛒 Misioo</b> - E-commerce store redesign + German market expansion</summary>
 <br>
 
-Store redesign for the German market. Custom WordPress/WooCommerce theme, payment integrations, hosting migration.
+WooCommerce store redesign for the Polish market + expansion to the German market (.de domain, Klarna, local payment methods). Hosting migration.
 
 **Tech:** WordPress, WooCommerce, PHP, SCSS, Webpack, Bootstrap, Git
 </details>
@@ -152,16 +148,6 @@ Full store migration from PrestaShop 1.6 to WooCommerce. Heavily customized Them
 </details>
 
 <details>
-<summary><b>🎓 Akademia CPI</b> - Design & development</summary>
-<br>
-
-Design and full build of an academy website.
-
-**Tech:** WordPress, Elementor
-**Link:** [akademiacpi.pl](https://akademiacpi.pl/)
-</details>
-
-<details>
 <summary><b>📐 HTR</b> - Print catalog + 3D product models</summary>
 <br>
 
@@ -176,8 +162,7 @@ Product catalog prepared for print + 3D models of plow blades.
 <br>
 
 | Project | What | Tech |
-|---|---|---|
-| **Way2Invest** | 2 landing pages - webinar ticket sales | Elementor, WooCommerce, ClickMeeting, Tpay |
+|---|---|---|| **Akademia CPI** | Academy website — design & development | WordPress, Elementor || **Way2Invest** | 2 landing pages - webinar ticket sales | Elementor, WooCommerce, ClickMeeting, Tpay |
 | **TrueRider** | Christmas landing page + marketing graphics | Elementor, JS, Photoshop |
 | **Lerymond** | Social media campaign - wood-inspired design | Photoshop, Illustrator |
 | **Receptomat & L4** | Advertising animations (FB, IG, TikTok, YT) | Photoshop |
@@ -223,7 +208,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
 | **CMS & Backend** | WordPress, WooCommerce, PHP, ACF (Advanced Custom Fields), Shopify, Elementor |
 | **Integrations** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
-| **Design** | Figma, Photoshop, Adobe XD, Illustrator |
+| **Design** | Figma, Photoshop, Adobe XD, Illustrator, Canva |
 | **3D** | Blender |
 | **AI** | Claude, ChatGPT, MidJourney, Ollama |
 | **Tools** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer, Electron |
@@ -241,8 +226,8 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 </p>
 
 <p align="center">
-  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A" /></a>
-  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5&hide=c%23,tsql&langs_count=8" /></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A&hide_rank=true" /></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5&hide=c%23,tsql,c&langs_count=8" /></a>
 </p>
 
 <p align="center">
@@ -252,7 +237,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | 🏗️ 15+ commercial projects | 🌍 103k people reached on StackOverflow |
 |---|---|
 | 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained |
-| 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | 🐙 323 GitHub contributions/year |
+| 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | � Found & reported JS bug in PrestaShow GA4 module |
 ---
 
 ### 🎬 Off-duty
@@ -291,13 +276,12 @@ Something new is coming - **Nonstetic** - stay tuned.
 
 ### `> kim jestem`
 
-Designer, który koduje. Programista, który projektuje. Albo po prostu koleś z Warszawy, który buduje strony internetowe od pustego Figma canvas po produkcyjny deploy.
+Web developer z Warszawy. Backend-first — PHP, WordPress internals, custom integracje, server-side tracking. Buduję sklepy, systemy płatności i conversion tracking, który działa nawet z AdBlockiem.
 
-Moje tło to backend-first - PHP, Java, C++, C# ze studiów, lata WordPress internals i custom integracji w praktyce. Design przyszedł naturalnie obok tego. Frontend ogarniam, ale systemy i integracje to moje naturalne środowisko.
+Za dnia piszę **custom motywy WordPress**, buduję sklepy WooCommerce i integruję systemy płatności + trackingu (Stripe, Klarna, Facebook CAPI).
+Design przyszedł obok tego — Figma, Photoshop, Blender. Moje projekty idą od pustego canvas po produkcyjny deploy.
 
-Urodzony w Choszcznie, studiowałem w Szczecinie, teraz działam z Warszawy. Za dnia piszę **custom motywy WordPress**, customizuję sklepy Shopify i integruję systemy płatności. Po pracy oglądam coś z dobrą animacją albo film ze świetnymi kadrami. Wyrosłem na komiksach i popkulturze, i dalej zależy mi na dobrym visual storytellingu bardziej niż powinienem.
-
-Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez **edukację**, **nieruchomości** i **medycynę**, po **luksusowe perfumy** i **drewniane akcesoria**.
+Projekty obejmują **e-commerce**, **e-learning**, **edukację**, **nieruchomości**, **medycynę**, **luksusowe perfumy** i **drewniane akcesoria**.
 
 ---
 
@@ -311,7 +295,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 > Custom Facebook Conversion API - działa nawet gdy użytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
 
 **🌐 Web Development**
-> WordPress & WooCommerce - custom themes i customizowane gotowe motywy. Sklepy Shopify. Elementor gdy pasuje do projektu. PHP, JS, SCSS, ACF. Budowane pod wydajność i utrzymanie.
+> WordPress & WooCommerce — custom themes, child themes, customizowane motywy ThemeForest. Sklepy Shopify. PHP, JS, SCSS, ACF. Własny build pipeline z Webpack — bez bloatu, bez nieużywanego CSS, bez page buildera na siłę.
 
 </td>
 <td width="50%" valign="top">
@@ -335,7 +319,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 | **[Eyevotion](https://eyevotion.com/)** | Platforma e-learningowa na rynek włoski, custom theme + WooCommerce | WordPress, WooCommerce, Elementor, PHP |
 | **[Milly Sadovski](https://millysadovski.com/)** | Luksusowy sklep perfumeryjny, Shopify, wysyłka 50+ krajów | Shopify, Klarna, Apple Pay |
 | **[FizjoSystem Szkolenia](https://www.fizjosystem-szkolenia.pl/)** | Platforma szkoleniowa dla fizjoterapeutów, rejestracja, płatności | WordPress, Custom Theme, ACF, PHP |
-| **Misioo** | Redesign sklepu na rynek niemiecki | WooCommerce, PHP, SCSS |
+| **Misioo** | Redesign sklepu na rynek polski + ekspansja na rynek niemiecki (.de, Klarna) | WooCommerce, PHP, SCSS |
 | **Simpliteca** | Strona + custom Facebook Conversion API (obejście AdBlocka) | WordPress, ACF, Meta CAPI, GTM |
 
 > ...i więcej. Pełna lista z opisami w [wersji angielskiej](#selected-projects) powyżej.
@@ -344,15 +328,7 @@ Moje projekty przeszły przez branże od **e-commerce** i **e-learningu**, przez
 
 ### 🧰 Technologie i narzędzia
 
-| Kategoria | Technologie |
-|---|---|
-| **Frontend** | JavaScript, HTML5, CSS3, SCSS/SASS, Bootstrap (custom builds), Webpack, Babel |
-| **CMS i Backend** | WordPress, WooCommerce, PHP, ACF, Shopify, Elementor |
-| **Integracje** | Facebook Conversion API (custom server-side), GTM, Google Analytics 4, Stripe, Klarna, PayPal, UPS, Tpay, Asari API, ClickMeeting, MailerLite |
-| **Design** | Figma, Photoshop, Adobe XD, Illustrator |
-| **3D** | Blender |
-| **AI** | Claude, ChatGPT, MidJourney, Ollama |
-| **Narzędzia** | Git, VS Code, WSL2, Ubuntu, Squoosh, Swiper, Photoswipe, Vanilla Lazyload, LanguageTool, Puppeteer, Electron |
+> Tabela technologii → patrz [wersja angielska](#-tech--tools) powyżej. Tech stack jest identyczny.
 
 ---
 
