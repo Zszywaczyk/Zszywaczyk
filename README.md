@@ -18,10 +18,10 @@
 
 ### `> whoami`
 
-Web developer from Warsaw. Backend-first — PHP, WordPress internals, custom integrations, server-side tracking. I build e-commerce stores, payment systems, and conversion tracking that works even when AdBlock is on.
+Web developer from Warsaw. Backend-first - PHP, WordPress internals, custom integrations, server-side tracking. I build e-commerce stores, payment systems, and conversion tracking that works even when AdBlock is on.
 
 By day I write **custom WordPress themes**, build WooCommerce stores, and integrate payment + tracking systems (Stripe, Klarna, Facebook CAPI).
-Design came alongside it — Figma, Photoshop, Blender. My projects go from an empty canvas to production deploy.
+Design came alongside it - Figma, Photoshop, Blender. My projects go from an empty canvas to production deploy.
 
 Projects span **e-commerce**, **e-learning**, **education**, **real estate**, **medicine**, **luxury perfumes** and **wooden accessories**.
 
@@ -56,7 +56,7 @@ const zszywacz = {
 > Custom Facebook Conversion API that works even when AdBlock is on. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager & GA4 setups. ClickMeeting, MailerLite, Asari API.
 
 **🌐 Web Development**
-> WordPress & WooCommerce — custom themes, child themes, customized ThemeForest themes. Shopify stores. PHP, JS, SCSS, ACF. Custom build pipeline with Webpack — no bloat, no unused CSS, no page builder overhead.
+> WordPress & WooCommerce - custom themes, child themes, customized ThemeForest themes. Shopify stores. PHP, JS, SCSS, ACF. Custom build pipeline with Webpack - no bloat, no unused CSS, no page builder overhead.
 
 </td>
 <td width="50%" valign="top">
@@ -162,7 +162,9 @@ Product catalog prepared for print + 3D models of plow blades.
 <br>
 
 | Project | What | Tech |
-|---|---|---|| **Akademia CPI** | Academy website — design & development | WordPress, Elementor || **Way2Invest** | 2 landing pages - webinar ticket sales | Elementor, WooCommerce, ClickMeeting, Tpay |
+|---|---|---|
+| **Akademia CPI** | Academy website - design & development | WordPress, Elementor |
+| **Way2Invest** | 2 landing pages - webinar ticket sales | Elementor, WooCommerce, ClickMeeting, Tpay |
 | **TrueRider** | Christmas landing page + marketing graphics | Elementor, JS, Photoshop |
 | **Lerymond** | Social media campaign - wood-inspired design | Photoshop, Illustrator |
 | **Receptomat & L4** | Advertising animations (FB, IG, TikTok, YT) | Photoshop |
@@ -227,7 +229,11 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 
 <p align="center">
   <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api?username=Zszywaczyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&icon_color=D4774A&text_color=F5F5F5&ring_color=C1622A&hide_rank=true" /></a>
-  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5&hide=c%23,tsql,c&langs_count=8" /></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats-zeta-one-82.vercel.app/api/top-langs/?username=Zszywaczyk&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=C1622A&text_color=F5F5F5&hide=c%23,tsql,c&langs_count=8" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=Zszywaczyk&theme=dark&hide_border=true&background=0d1117&ring=C1622A&fire=D4774A&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=888888" /></a>
 </p>
 
 <p align="center">
@@ -237,7 +243,7 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
 | 🏗️ 15+ commercial projects | 🌍 103k people reached on StackOverflow |
 |---|---|
 | 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained |
-| 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | � Found & reported JS bug in PrestaShow GA4 module |
+| 🔧 Bugfix merged in LiteSpeed Cache (5M+ WP installs) | 🐛 Found & reported JS bug in PrestaShow GA4 module |
 ---
 
 ### 🎬 Off-duty
@@ -276,10 +282,10 @@ Something new is coming - **Nonstetic** - stay tuned.
 
 ### `> kim jestem`
 
-Web developer z Warszawy. Backend-first — PHP, WordPress internals, custom integracje, server-side tracking. Buduję sklepy, systemy płatności i conversion tracking, który działa nawet z AdBlockiem.
+Web developer z Warszawy. Backend-first - PHP, WordPress internals, custom integracje, server-side tracking. Buduję sklepy, systemy płatności i conversion tracking, który działa nawet z AdBlockiem.
 
 Za dnia piszę **custom motywy WordPress**, buduję sklepy WooCommerce i integruję systemy płatności + trackingu (Stripe, Klarna, Facebook CAPI).
-Design przyszedł obok tego — Figma, Photoshop, Blender. Moje projekty idą od pustego canvas po produkcyjny deploy.
+Design przyszedł obok tego - Figma, Photoshop, Blender. Moje projekty idą od pustego canvas po produkcyjny deploy.
 
 Projekty obejmują **e-commerce**, **e-learning**, **edukację**, **nieruchomości**, **medycynę**, **luksusowe perfumy** i **drewniane akcesoria**.
 
@@ -295,7 +301,7 @@ Projekty obejmują **e-commerce**, **e-learning**, **edukację**, **nieruchomoś
 > Custom Facebook Conversion API - działa nawet gdy użytkownik ma AdBlocka. Stripe, Klarna, PayPal, UPS, Tpay. Google Tag Manager i GA4. ClickMeeting, MailerLite, Asari API.
 
 **🌐 Web Development**
-> WordPress & WooCommerce — custom themes, child themes, customizowane motywy ThemeForest. Sklepy Shopify. PHP, JS, SCSS, ACF. Własny build pipeline z Webpack — bez bloatu, bez nieużywanego CSS, bez page buildera na siłę.
+> WordPress & WooCommerce - custom themes, child themes, customizowane motywy ThemeForest. Sklepy Shopify. PHP, JS, SCSS, ACF. Własny build pipeline z Webpack - bez bloatu, bez nieużywanego CSS, bez page buildera na siłę.
 
 </td>
 <td width="50%" valign="top">
