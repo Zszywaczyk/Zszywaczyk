@@ -236,10 +236,6 @@ acusdent.pl, annamed.pl, borys.info.pl, drLesniak.pl, ketamineclinic.pl, dental-
   <a href="#"><img src="https://streak-stats.demolab.com/?user=Zszywaczyk&theme=dark&hide_border=true&background=0d1117&ring=C1622A&fire=D4774A&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=888888" /></a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Zszywaczyk&theme=react-dark&hide_border=true&bg_color=0d1117&color=F5F5F5&line=C1622A&point=D4774A&area=true&area_color=C1622A" width="98%" /></a>
-</p>
-
 | 🏗️ 15+ commercial projects | 🌍 103k people reached on StackOverflow |
 |---|---|
 | 🧊 19 3D models on SketchFab (11k+ views) | 🔨 13+ websites managed & maintained |
